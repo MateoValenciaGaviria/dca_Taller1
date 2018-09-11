@@ -7,26 +7,14 @@ public class Logica {
 	private Main app;
 	private StringBuilder frase;
 	
-	private int vocalA;
-	private int vocalE;
-	private int vocalI;
-	private int vocalO;
-	private int vocalU;
-	
-	private int numero;
-	
-	private int cantMayus;
-	
-	private int cantPalabras;
-	
-	private int cantCA;
-	
-	private int cantEspacios;
-	
-	private int cantPuntos;
+	private TuboDeMuestras tubos;
+	private PlataformaDeMuestras plataforma;
+	private AlarmaDeRadioactividad alarma;
+	private Iman iman;
+	private CadenaCarbonada cadenaCA;
+	private CadenaAdn cadenaADN;
 	private ArrayList<Bacteria> bacterias;
-	
-	private int cantCombinaciones;
+	private Pasta pasta;
 
 	public Logica(Main app) {
 		this.app = app;

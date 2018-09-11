@@ -5,6 +5,7 @@ public class CadenaAdn {
 	private Main app;
 	private boolean mover;
 	private int posX;
+	private int cantEspacios;
 	
 	public CadenaAdn(Main app){
 		this.app = app;

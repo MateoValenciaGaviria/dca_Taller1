@@ -4,6 +4,7 @@ public class CadenaCarbonada {
 	
 	private Main app;
 	private int color;
+	private int cantCA;
 	
 	public CadenaCarbonada(Main app){
 		this.app = app;

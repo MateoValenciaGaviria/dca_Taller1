@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Pasta {
 	
 	private Main app;
+	private int cantCombinaciones;
 	private ArrayList<String> combinaciones;
 	
 	public Pasta(Main app){

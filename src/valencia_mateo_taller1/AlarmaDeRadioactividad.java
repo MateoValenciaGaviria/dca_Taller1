@@ -4,6 +4,7 @@ public class AlarmaDeRadioactividad {
 	
 	private Main app;
 	private int color;
+	private int cantMayus;
 	
 	public AlarmaDeRadioactividad(Main app){
 		

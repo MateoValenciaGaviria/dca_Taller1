@@ -4,6 +4,12 @@ public class TuboDeMuestras {
 	
 	private Main app;
 	
+	private int vocalA;
+	private int vocalE;
+	private int vocalI;
+	private int vocalO;
+	private int vocalU;
+	
 	private int posYa;
 	private int posYe;
 	private int posYi;
